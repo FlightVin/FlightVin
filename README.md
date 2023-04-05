@@ -2,7 +2,9 @@
 - 🌱 I’m currently learning ... Computer Science and Engineering at IIIT-H
 - 📫 How to reach me ... 
     
-    * Email - vineeth.bhat@google.com
+    * Email - 
+        1. vineeth.bhat@gmail.com
+        2. vineeth.bhat@students.iiit.ac.in
     * LinkedIn - https://in.linkedin.com/in/vineethbhat
 
 <!---
