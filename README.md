@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FlightVin (Vineeth Bhat)
-- 🌱 I’m currently learning ... Computer Science and Engineering at IIIT-H
-- 📫 How to reach me ... 
-    
+- 🌱 CSE Undergard @ IIIT-H
+- ✨ Passionate about AI, Computer Vision, Robotics, and Software.
+- 📫 How to reach me?
     * Email - 
         1. vineeth.bhat@gmail.com
         2. vineeth.bhat@students.iiit.ac.in
