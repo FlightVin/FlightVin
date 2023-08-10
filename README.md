@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FlightVin (Vineeth Bhat)
 - 🌱 CSE Undergard @ IIIT-H
-- ✨ Passionate about AI, Computer Vision, Robotics, and Software.
+- ✨ Passionate about AI, Computer Vision, Robotics, and Systems.
 - 📫 How to reach me?
     * Email - 
         1. vineeth.bhat@gmail.com
