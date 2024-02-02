@@ -4,7 +4,7 @@ Things that currently pique my interest are Software Systems, Perception (Roboti
 
 You can reach me through
 - [LinkedIn](https://www.linkedin.com/in/vineethbhat/)
-- [Email](vineeth.bhat@gmail.com)
+- [Email](mailto:vineeth.bhat@gmail.com)
 
 <!---
 FlightVin/FlightVin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
