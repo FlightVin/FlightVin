@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @FlightVin (Vineeth Bhat)
-- 🌱 CSE Undergard @ IIIT-H
-- ✨ Passionate about AI, Computer Vision, Robotics, and Systems.
-- 📫 How to reach me?
-    * Email - 
-        1. vineeth.bhat@gmail.com
-        2. vineeth.bhat@students.iiit.ac.in
-    * LinkedIn - https://in.linkedin.com/in/vineethbhat
+Computer Science and Engineering Undergraduate at IIIT Hyderabad.
+
+Things that currently pique my interest are Software Systems, Perception (Robotics), Foundation Models and the tools surrounding them.
+
+You can reach me through
+- [LinkedIn](https://www.linkedin.com/in/vineethbhat/)
+- [Email](vineeth.bhat@gmail.com)
 
 <!---
 FlightVin/FlightVin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
