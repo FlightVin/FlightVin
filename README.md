@@ -1,6 +1,6 @@
 A final-year Computer Science and Engineering Undergraduate at [IIIT Hyderabad](https://www.iiit.ac.in/).
 
-Things that currently pique my interest are Software Systems, Perception (Robotics), Foundation Models and the tools surrounding them.
+Things that currently pique my interest are Software Systems, Perception (Robotics), Finance, Foundation Models and the tools surrounding them.
 
 ## Contact Me
 You can reach me through
