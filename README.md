@@ -11,7 +11,7 @@ I am always open to meaningful conversations and new opportunities. You can reac
 
 ## Projects
 
-A few of my own projects, _not including the ones_ that I've contributed to (but don't own):
+A few of my own projects:
 
 1. [A Few Software Engineering Projects](#Software-Engineering-Projects)
 2. [Mobile Robotics: Camera-Lidar Calibration](#Camera-Lidar-Calibration)
@@ -21,6 +21,8 @@ A few of my own projects, _not including the ones_ that I've contributed to (but
 6. [Greddiit: A MERN clone of Reddit](#Greddiit)
 7. [Propulsion Maniac: A 2D Game using C++ and OpenGL](#Propulsion-Maniac)
 8. [A Python DB CLI for Olympics](#Python-DB-CLI)
+
+_These do not include the ones that I've worked on but don't own._
 
 ---
 
