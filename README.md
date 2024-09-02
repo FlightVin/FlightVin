@@ -1,9 +1,11 @@
-A final-year Computer Science and Engineering Undergraduate at [IIIT Hyderabad](https://www.iiit.ac.in/).
+# Vineeth Bhat  
+A final-year Computer Science & Engineering undergrad at [IIIT Hyderabad](https://www.iiit.ac.in/).
 
-Things that currently pique my interest are Software Systems, Perception (Robotics), Finance, Foundation Models and the tools surrounding them.
+Things that currently pique my interest are [Software Systems](https://en.wikipedia.org/wiki/Software_system) and [Foundation Models](https://en.wikipedia.org/wiki/Foundation_model).
 
 ## Contact Me
-You can reach me through
+I am always open to meaningful conversations and new opportunities. You can reach me via:
+
 - [LinkedIn](https://www.linkedin.com/in/vineethbhat/): https://www.linkedin.com/in/vineethbhat/
 - [Email](mailto:vineeth.bhat@gmail.com): vineeth.bhat@gmail.com
 
