@@ -4,7 +4,7 @@ A final-year Computer Science & Engineering undergrad at [IIIT Hyderabad](https:
 Things that currently pique my interest are [Software Systems](https://en.wikipedia.org/wiki/Software_system) and [Foundation Models](https://en.wikipedia.org/wiki/Foundation_model).
 
 ## Contact Me
-I am always open to meaningful conversations and new opportunities. You can reach me via:
+I'm always open to conversations and opportunities. You can reach me via:
 
 - [LinkedIn](https://www.linkedin.com/in/vineethbhat/): https://www.linkedin.com/in/vineethbhat/
 - [Email](mailto:vineeth.bhat@gmail.com): vineeth.bhat@gmail.com
