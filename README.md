@@ -8,4 +8,4 @@ I'm always open to conversations and opportunities. I suppose I shouldn't link m
 
 ## Projects
 
-Makrdown's pretty great but I like webpages more. So, here's a really cool [page](https://flightvin.github.io/projects/) with my (cooler) projects.
+Markdown's pretty great but I like webpages more. So, here's a really cool [page](https://flightvin.github.io/projects/) with my (cooler) projects.
